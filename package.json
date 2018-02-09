@@ -1,22 +1,22 @@
 {
-  "name": "mysqlvi",
-  "version": "1.0.2",
+  "name": "hnz-mysql",
+  "version": "1.0.0",
   "description": "Mysql链式加强版版本!",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allcky/mysqlvi.git"
+    "url": "git+https://github.com/allcky/hnz-mysql.git"
   },
   "keywords": [
     "mysql",
-    "mysqlvi"
+    "hnz-mysql"
   ],
   "author": "houningzhou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/allcky/mysqlvi/issues"
+    "url": "https://github.com/allcky/hnz-mysql/issues"
   },
-  "homepage": "https://github.com/allcky/mysqlvi#readme",
+  "homepage": "https://github.com/allcky/hnz-mysql#readme",
   "dependencies": {
     "mysql": "^2.15.0"
   }

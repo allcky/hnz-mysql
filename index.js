@@ -1,1 +1,1 @@
-module.exports = require("./lib/mysqlvi");
+module.exports = require("./lib/hnzMysql");

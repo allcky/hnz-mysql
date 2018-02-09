@@ -1,18 +1,18 @@
-# mysqlvi
+# hnz-mysql
 mysql链式查询版本!
 
 ## 安装
 ```
-npm install mysqlvi
+npm install hnz-mysql
 ```
 
 ## 使用
 
 ### 构造函数
 ```
-var mysqlvi = require("mysqlvi");
+var hnzMysql = require("hnz-mysql");
 
-var m = new mysqlvi({
+var m = new hnzMysql({
 	host:'localhost',
 	user:'root',
 	password:"",
