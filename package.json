@@ -1,0 +1,23 @@
+{
+  "name": "mysqlvi",
+  "version": "1.0.2",
+  "description": "Mysql链式加强版版本!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allcky/mysqlvi.git"
+  },
+  "keywords": [
+    "mysql",
+    "mysqlvi"
+  ],
+  "author": "houningzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allcky/mysqlvi/issues"
+  },
+  "homepage": "https://github.com/allcky/mysqlvi#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
