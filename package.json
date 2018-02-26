@@ -1,7 +1,7 @@
 {
   "name": "hnz-mysql",
-  "version": "1.0.0",
-  "description": "Mysql链式加强版版本!",
+  "version": "1.0.3",
+  "description": "用于mysql开发的链式调用包。",
   "main": "index.js",
   "repository": {
     "type": "git",
