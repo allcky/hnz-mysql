@@ -1,6 +1,6 @@
 {
   "name": "hnz-mysql",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "用于mysql开发的链式调用包。",
   "main": "index.js",
   "repository": {
